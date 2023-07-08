@@ -5,6 +5,6 @@ import MLBStatsAPIClient
 
 base_url = "https://statsapi.mlb.com/api"
 
-client = MLBStatsAPIClient()
+client = MLBStatsAPIClient.MLBStatsAPIClient()
 
-print(client.baseurl)
+print(client.base_url)

@@ -4,8 +4,9 @@ import sqlite3
 
 class MLBStatsAPIClient:
     
+    base_url = "https://statsapi.mlb.com/api"
+    
     def __init__(self):
-        base_url = "https://statsapi.mlb.com/api"
         pass
     
     #get game data
