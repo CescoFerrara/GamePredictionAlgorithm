@@ -1,2 +1,1 @@
-# MLBBets
-# Betting AI for MLB
+# Game Prediction Algorithm
